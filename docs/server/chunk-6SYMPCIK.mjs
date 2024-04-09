@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as r,b as i,c as n,d as p,e as m,l as s,n as a,o as f,r as c,x as d}from"./chunk-AFFMPBTG.mjs";var l=(()=>{let t=class t{constructor(){this.title="barcodescanner"}};t.\u0275fac=function(e){return new(e||t)},t.\u0275cmp=r({type:t,selectors:[["app-root"]],standalone:!0,features:[m],decls:2,vars:0,template:function(e,y){e&1&&(i(0,"h1"),p(1," Madhu test site deployment"),n())}});let o=t;return o})();var u=[];var v={providers:[d(u),f()]};var x={providers:[c()]},g=s(v,x);var h=()=>a(l,g),q=h;export{q as a};
